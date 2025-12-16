@@ -5,6 +5,12 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)](https://opencv.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blueviolet)](https://www.arduino.cc/)
 
+
+
+DEMO VIDEO : https://drive.google.com/file/d/1Hz5HVZvZMrNeYeHy_cee4AD5kAg6w5WX/view?usp=drive_link
+
+
+
 **real time computer vision–based robotic arm control system** -> **hand gesture recognition** -> **4-DOF robot arm** .
 The system integrates **MediaPipe (Python)** for perception and **Arduino** for hardware control through a **robust serial communication pipeline** with proper state handling.
 
